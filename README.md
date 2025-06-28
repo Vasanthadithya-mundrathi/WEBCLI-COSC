@@ -34,15 +34,3 @@ python server.py
 ```
 
 The backend will run on the port specified in `.env`.
-
-## Deployment
-
-To deploy on Render:
-
-1. Push this repository to GitHub.
-2. Connect your repo to Render and set up separate services for frontend and backend as needed.
-3. Configure environment variables in Render dashboard.
-
-## License
-
-MIT
